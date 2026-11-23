@@ -76,7 +76,7 @@
 	"homepage": "https://aws-amplify.github.io/",
 	"devDependencies": {
 		"@babel/cli": "7.17.0",
-		"@babel/core": "7.17.2",
+		"@babel/core": "7.29.6",
 		"@babel/preset-env": "^7.0.0",
 		"@babel/preset-react": "^7.0.0",
 		"@lerna/legacy-package-management": "^7.4.2",
